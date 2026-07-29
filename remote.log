@@ -1,0 +1,1 @@
+70c3048a-8d53-4bcc-8fe0-5eb1d394c95e autoenable=true bucket=cneuromod.mutemusic.tsnr chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.mutemusic.tsnr port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1785353019s
